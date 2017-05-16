@@ -32,4 +32,4 @@ It also assumes the dev tools are already installed.
 
 I made this script to learn how the GNU build system was set up.
 
-This script is not yet finished and must be considered unsatble.
+This script is not yet finished and must be considered unstable.
